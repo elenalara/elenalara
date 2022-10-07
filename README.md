@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to my GitHub profile 👋
 
 <!--
 **elenalara/elenalara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Elena. I am Data Scientist based in Barcelona specialized in Deep Learning techniques.
+
+#### Some of my favourite technologies:
+
+- Python
+
+## Do you want to know more?
+
+👉 [LinkedIn](https://www.linkedin.com/in/elena-lara-simon/)
